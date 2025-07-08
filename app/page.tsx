@@ -57,7 +57,7 @@ export default function Portfolio() {
       description:
         "UK's leading online retailer for swimming pool and spa supplies, offering a wide range of products from pools to maintenance equipment.",
       url: "https://poolstore.co.uk",
-      tech: ["Laravel", "Vue.js", "MySQL"],
+      tech: ["Laravel", "MySQL"],
       category: "E-commerce",
     },
     {
@@ -65,7 +65,7 @@ export default function Portfolio() {
       description:
         "End-to-end XR solutions in VR, AR, and MR, empowering 3,000+ organizations including Stanford with immersive experiences.",
       url: "https://igivu.com",
-      tech: ["Next.js", "TypeScript", "3D Graphics"],
+      tech: ["Vue.js", "3D Graphics"],
       category: "XR Platform",
     },
     {
@@ -81,7 +81,7 @@ export default function Portfolio() {
       description:
         "Premium, custom uPVC window and door solutions in Pakistan, combining 13+ years of expertise with quality and modern design.",
       url: "https://www.tradeinupvc.com",
-      tech: ["Laravel", "Vue.js", "E-commerce"],
+      tech: ["Next.js", "Tailwind CSS"],
       category: "Business",
     },
     {
